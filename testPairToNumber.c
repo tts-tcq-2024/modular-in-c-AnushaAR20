@@ -1,4 +1,4 @@
-#include <gtest/gtest.h>
+
 #include <ColorPairToString.h>
 
 void testPairToNumber(
