@@ -1,5 +1,5 @@
-#ifndef COLOUR_SETS_H
-#define COLOUR_SETS_H
+#ifndef COLOUR_SET_H
+#define COLOUR_SET_H
 
 const int MAX_COLORPAIR_NAME_CHARS = 16;
 
