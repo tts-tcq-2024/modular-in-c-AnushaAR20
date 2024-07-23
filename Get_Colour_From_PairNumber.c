@@ -1,5 +1,5 @@
-#include<Colour_Sets.h>
-#include<Get_Color_From_PairNumber.h>
+#include <colour_sets.h>
+#include <get_color_from_pairnumber.h>
 
 ColorPair GetColorFromPairNumber(int pairNumber) {
     ColorPair colorPair;
