@@ -1,4 +1,5 @@
 #include <gtest/gtest.h>
+#include <ColorPairToString.h>
 
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
