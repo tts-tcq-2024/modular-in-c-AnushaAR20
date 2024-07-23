@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include<Colour_Sets.h>
-#inlcude<Colour_Pair_To_String_Convert.h>
+#include <colour_sets.h>
+#inlcude <colour_pair_to_string_convert.h>
 
 void ColorPairToString(const ColorPair* colorPair, char* buffer) {
     sprintf(buffer, "%s %s",
