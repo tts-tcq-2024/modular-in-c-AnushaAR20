@@ -1,3 +1,5 @@
+#include <gtest/gtest.h>
+
 void testPairToNumber(
     enum MajorColor major,
     enum MinorColor minor,
