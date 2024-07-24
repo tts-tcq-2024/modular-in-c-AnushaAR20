@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <assert.h> 
 #include "colour.h"
-#include "get_colour_from_pairnumber.h"
-#include "colour_pair_to_string_convert.h"
+#include "test_number_to_pair.h"
+#include "test_pair_to_number.h"
 
 int main() {
     testNumberToPair(4, WHITE, BROWN);
