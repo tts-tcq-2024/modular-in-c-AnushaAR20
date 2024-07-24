@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "colour.h"
-#include "get_pairnumber_from_colour"
+#include "get_pairnumber_from_colour.h"
 
 int GetPairNumberFromColor(const ColorPair* colorPair) {
     return colorPair->majorColor * numberOfMinorColors +
