@@ -1,7 +1,7 @@
 
-#include <colour_set.h>
-#inlcude <colour_pair_to_string_convert.h>
-#include <get_colour_from_pairnumber.h>
+#include "colour.h"
+#inlcude "colour_pair_to_string_convert.h"
+#include "get_colour_from_pairnumber.h"
 
 void testPairToNumber(
     enum MajorColor major,
