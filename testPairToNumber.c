@@ -2,7 +2,7 @@
 #include <assert.h>
 #include "colour.h"
 #include "colour_pair_to_string_convert.h"
-#include "get_colour_from_pairnumber.h"
+#include "get_pairnumber_from_colour.h"
 
 void testPairToNumber(
     enum MajorColor major,
