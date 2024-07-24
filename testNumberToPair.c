@@ -3,6 +3,7 @@
 #include "colour.h"
 #include "colour_pair_to_string_convert.h"
 #include "get_colour_from_pairnumber.h"
+#include "test_number_to_pair.h
 
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
