@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h> 
 #include "colour.h"
-#include "get_color_from_pairnumber.h"
+#include "get_colour_from_pairnumber.h"
 #include "colour_pair_to_string_convert.h"
 
 int main() {
