@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <colour_pair_to_string_convert.h>
-#include <colour.h>
+#include "colour_pair_to_string_convert.h"
+#include "colour.h"
 
 
 void ColorPairToString(const ColorPair* colorPair, char* buffer) {
